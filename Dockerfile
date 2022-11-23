@@ -1,5 +1,5 @@
 ARG MEILI_MASTER_KEY
 
-FROM getmeili/meilisearch:latest
+FROM getmeili/meilisearch:v0.29.1
 
 EXPOSE 7700
